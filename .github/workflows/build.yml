@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
     branches:
-      - master
+      - t32-add-ci
   merge_group:
   schedule:
     - cron: '00 01 * * *'
