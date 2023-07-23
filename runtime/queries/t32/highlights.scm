@@ -8,7 +8,6 @@
    ":"
 ] @operator)
 
-
 ; Keywords, punctuation and operators
 [
   "enum"
